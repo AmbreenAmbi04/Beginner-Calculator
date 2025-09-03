@@ -5,7 +5,7 @@ const Calculator = () => {
 
   const [number1, setNumber1] = useState("");
   const [number2, setNumber2] = useState("");
-    const [result, setResult] = useState(null);
+  const [result, setResult] = useState(null);
 
 return (
       <motion.div
